@@ -1,0 +1,87 @@
+a:hover{
+    color:red;
+    text-decoration: none;
+}
+
+a:focus{
+    color:yellow;
+}
+.my_color{
+color: green;
+
+}
+.my_font{
+    font-size: 22px
+}
+
+.my_box{
+
+background-image:url(testpic.jpg);
+background-size:contain;
+background-attachment:fixed;
+
+
+    background-color: aquamarine;
+    
+    border:10px dashed black;
+
+    padding:20px;
+
+    margin:20px;
+
+    
+    height:400px;
+
+margin-left:auto;
+margin-right:auto;
+
+}
+
+form{
+width:50%;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+.my_input_txt{
+
+    width:100%;
+    margin:3px;
+}
+
+@media (max-width:300px){
+    h1{
+        font-size:500px;
+
+}
+
+  
+    
+
+
+    /*
+    border-top:10px;
+    border-top-style: dashed;
+    border-top-color: blue;
+
+    border-bottom:10px;
+    border-bottom-style: dashed;
+    border-bottom-color: blue;
+
+    border-left:10px;
+    border-left-style: dashed;
+    border-left-color: blue;
+
+    border-right:10px;
+    border-right-style: dashed;
+    border-right-color: blue;
+
+  
+
+    
+*/
+
+  /* comments: */
+
+}
