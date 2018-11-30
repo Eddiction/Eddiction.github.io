@@ -1,0 +1,19 @@
+body{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+h1{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.my_btn_color{
+    background-color: blueviolet
+}
+
+.jumbotron{
+    background-color: aquamarine
+}
+
+h1{
+    color:white!important;
+}
